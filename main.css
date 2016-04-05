@@ -1,0 +1,137 @@
+/* ADD YOUR STYLES HERE */
+
+.exe6 {
+    padding-left: 50px;
+}
+
+.exe6 img {
+    padding-left: 25px;
+    
+}
+
+.exe6a {
+    padding-left: 15px;
+}
+
+.exe6a p {
+    display: inline-block;
+}
+
+.exe6a ol {
+    display: inline-block;
+}
+
+.exe8 li {
+    display: inline;
+}
+
+
+
+.exe9 .but1 {
+    padding: 25px 45px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none
+}
+
+.exe9 .but3 {
+    padding: 8px 8px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none
+}
+
+.exe9 .but2, .exe9 a, .exe9 input {
+    padding: 12px 45px;
+    background-color: red;
+    display: inline-block;
+    border-radius: 5px;
+    color: #fff;
+    text-decoration: none;
+    border: 0px;
+}
+
+.exe10 {
+    background-color: red;
+    border-radius: 5px;
+    height: 30px;
+    width: 500px;
+}
+
+.exe10 nav li {
+    position: relative;
+    display: inline-block;
+    padding: 5px 35px 0 0;
+    height: 25px;
+}
+
+.exe10 a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.exe10 a:hover {
+    background-color: blue;
+    padding: 30px 0;
+}
+
+
+.exe11 {
+    height: 35px;
+    
+}
+.exe11 ol li {
+    display: inline-block;
+    color: lightgrey;
+    padding: 0px 5px;
+
+}
+
+.exe11 .endpieces {
+    border: 0px;
+}
+
+.exe11 a {
+    color: red;
+    text-decoration: none;
+    border-bottom: 3px solid red;
+}
+
+.exe11 span {
+    border-bottom: 3px solid lightgrey;
+}
+
+.exe12 .flowtext {
+    clear: left;
+}
+
+
+.exe13 ul li {
+    display: inline-block;
+    background-color: white;
+    padding: 5px;
+    position: relative;
+    top: 20px;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+.exe13 .content p {
+    border: 1px solid black;
+    border-radius: 5px;
+    position: absolute;
+    padding: 10px;
+    background-color: white;
+    height: 75px;
+    z-index: 0;
+}
+
+.exe13 .active {
+    position: relative;
+    z-index: 100;
+    
+}
